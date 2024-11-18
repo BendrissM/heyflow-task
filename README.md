@@ -9,6 +9,7 @@ Prerequisites:
 To set up the app execute the following commands.
 
 ```bash
+cd jsonExplorer
 npm install
 ```
 
