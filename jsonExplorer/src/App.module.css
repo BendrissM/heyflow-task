@@ -1,0 +1,28 @@
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  margin: 20px;
+}
+
+input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.value {
+  color: #484848;
+  font-family: monospace;
+}
+
+.responseContainer {
+  margin: 20px;
+}
+
+.viewer {
+  font-family: monospace;
+  border: 2px solid #ececec;
+  border-radius: 4px;
+  padding: 0.5rem;
+}

@@ -1,0 +1,16 @@
+.jsonKey.clickable {
+  cursor: pointer;
+  color: #0093e8;
+}
+
+.jsonKey.clickable:hover {
+  text-decoration: underline;
+}
+
+.jsonValue {
+  color: #c41a16;
+}
+
+.jsonIndent {
+  margin-left: 20px;
+}
