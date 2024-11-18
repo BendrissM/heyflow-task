@@ -27,3 +27,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 Builds the app for production and serves it.\
 Open [http://localhost:4173](http://localhost:4173) to view it in the browser.
+
+# Checkbox
+
+simply open the html file in the browser.
